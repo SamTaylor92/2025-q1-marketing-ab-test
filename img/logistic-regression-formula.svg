@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180">
+  <!-- Formula -->
+  <text x="300" y="60" font-family="Arial" font-size="22" font-weight="bold" fill="#57606a" text-anchor="middle">Logistic Regression Formula:</text>
+  <text x="300" y="110" font-family="Arial" font-size="24" fill="#57606a" text-anchor="middle">P = e^(β₀ + β₁X₁) / (1 + e^(β₀ + β₁X₁))</text>
+  
+  <!-- Where -->
+  <text x="70" y="150" font-family="Arial" font-size="18" font-weight="bold" fill="#57606a">Where:</text>
+  <text x="140" y="150" font-family="Arial" font-size="18" fill="#57606a">P = Probability of conversion</text>
+</svg>
