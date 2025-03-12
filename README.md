@@ -18,6 +18,8 @@ href="mailto:samtaylor92@live.co.uk" target="_blank"><img alt="Email" src="https
 
 This project analyzes the effectiveness of a marketing campaign using A/B testing. The goal is to determine whether ads significantly impact customer conversion rates. The analysis includes statistical methods such as attribution percentage and odds ratio calculations.
 
+![presentation gif](https://github.com/user-attachments/assets/fef72bcb-ae38-4b99-8f8d-c157038f95b1)
+
 📂 Repository Structure
 
 ```
