@@ -11,7 +11,7 @@ marketing_ab_test/
 │──  marketing_ab_test.ipynb     # Jupyter Notebook with analysis      
 ├──  marketing_ab_test.pdf       # Google Slides report
 │──  README.md                   # Project overview & documentation
-│──  requirements.txt            # Dependencies (if needed)
+│──  requirements.txt            # Dependencies
 ```
 
 <h2> 📊 Analysis Summary </h2>
